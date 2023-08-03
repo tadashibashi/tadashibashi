@@ -29,7 +29,7 @@ As a former composer, analyzing music scores and understanding code can be quite
 
 
 
-### Opus Track
+### [Opus Track](https://github.com/tadashibashi/opus-track)
 
 *Music client collaboration platform*
 
