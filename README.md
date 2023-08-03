@@ -45,9 +45,9 @@ As a former composer, analyzing music scores and understanding code can be quite
 
 ## :video_game: A couple games I made
 
-### [Tetris]("https://code.aaronishibashi.com/tetris")
+### [Tetris]("https://github.com/tadashibashi/tetris")
 <img src="media/tetris-anim.gif" min-width="200px"/> 
 
-### [Simon]("https://code.aaronishibashi.com/simon")
+### [Simon]("https://github.com/tadashibashi/simon")
 <img src="media/simon-anim.gif" min-2width="200px">
 
