@@ -6,7 +6,7 @@ Hello! I'm a software developer who loves understanding how to build things from
 
 I get inspired by using well-designed frameworks, interfaces, and implementations, and am constantly learning to better refine my own code. 
 
-As a former game composer, I aim to synthesize my passion for music and game technology with computer science and programming. I've found that crafting music and software both can have much in common!
+As a former game composer, I aim to synthesize my passion for music and game technology with computer science and programming. I've found that crafting music and software both have much in common!
 
 
 ## Toolbox
