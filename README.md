@@ -8,10 +8,16 @@ I get inspired by using well-designed frameworks, interfaces, and implementation
 
 As a former game composer, I aim to synthesize my passion for music and game technology with computer science and programming. I've found that crafting music and software both have much in common!
 
+<br/>
 
-## Toolbox
-[![My Skills](https://skillicons.dev/icons?i=typescript,python,django,jest,javascript,express,react,redux,nodejs,html,css,bootstrap,d3,webpack,cpp,cmake,cs,dotnet,wasm,git,github,aws,heroku,lua,mongodb,postgres,gamemakerstudio&perline=9)]()
+## Languages & Tools
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tadashibashi&theme=github) ![Top Lanauges](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tadashibashi&theme=github&exclude=shell,gamemakerlanguage) 
 
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,cpp,python,javascript,django,nodejs,express,react,redux,jest,html,css,bootstrap,d3,webpack,cmake,cs,dotnet,wasm,git,github,aws,heroku,lua,mongodb,postgres,gamemakerstudio&perline=9)]()
+
+<br/>
 
 ## 🔭 I’m currently working on
 
@@ -50,4 +56,6 @@ As a former game composer, I aim to synthesize my passion for music and game tec
 
 ### [Simon](https://github.com/tadashibashi/simon)
 <img src="media/simon-anim.gif" min-2width="200px">
+
+
 
