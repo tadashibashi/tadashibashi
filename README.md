@@ -15,7 +15,7 @@ As a former game composer, I aim to synthesize my passion for music and game tec
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,cpp,python,javascript,django,nodejs,express,react,redux,jest,html,css,bootstrap,d3,webpack,cmake,cs,dotnet,wasm,git,github,aws,heroku,lua,mongodb,postgres,gamemakerstudio&perline=9)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,typescript,svelte,react,tailwind,vite,docker,python,django,nodejs,express,html,css,bootstrap,webpack,cmake,cs,dotnet,wasm,git,github,aws,heroku,lua,mongodb,postgres,gamemakerstudio&perline=9)]()
 
 <br/>
 
