@@ -16,14 +16,15 @@ To that end, here are some projects I'm currently working on.
 
 ### [Insound Audio](https://github.com/tadashibashi/insound)
 
-Low-level audio engine built with SDL_Audio
+Cross-platform low-level audio engine
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+- Cross-platform: Desktop, iOS, Android, WebGL
 - PCM file loading and playback
 - DSP plugin system
 - Audio mix graph with nested busses and audio sources
-- Minimal dependencies: SDL2 is privately statically linked
+- Minimal dependencies
 
 
 ### [SDGL](https://github.com/tadashibashi/sdgl)
