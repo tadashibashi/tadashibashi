@@ -1,15 +1,8 @@
 ![headliner](media/headliner.png)
 
-Hello! I'm a developer and classically-trained composer who enjoys learning how things work and building them from the ground up.
-I grew up playing video game series like Mega Man Battle Network, Final Fantasy, Fire Emblem, 
-and Mario, which sparked a passion in me for both music composition and game development.
+Hello! I'm a developer and conservatory-trained composer. I enjoy building things from the ground up.
 
-In both music and software, I find some parallel goals:
-1. seek an economy of means
-2. seek technical clarity, originality, and creativity
-3. repetition and practice
-
-Right now, I am trying to understand cross-platform development in graphics and audio. 
+Right now, I am working on cross-platform development in graphics and audio. 
 To that end, here are some projects I'm currently working on.
 
 ## Current Projects
@@ -43,5 +36,6 @@ Examples can be found [here](https://github.com/tadashibashi/sdgl-examples)
 
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tadashibashi&theme=github) ![Top Lanauges](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tadashibashi&theme=github&exclude=shell,gamemakerlanguage) 
 
-Overall, using my practical experience as a game composer, I aim to synthesize my passion for music and game technology with software development. 
-I've found that crafting music and software both have much in common!
+Overall, using the the logical and creative aspects from my music training, I find that the discipline of computer science has significant crossover in terms of craftsmanship and technical excellence acquired through long hours of study and practice.
+
+I'd invite any developer to begin studying music, and you might find a unique creative avenue that may resonate with you.
